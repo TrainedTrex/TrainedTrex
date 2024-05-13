@@ -1,5 +1,5 @@
 ### 🔭 Some projects that interest me
-#### Currently work at [Cesium](https://cesium.com/)
+#### Working at [Cesium](https://cesium.com/)
 
 <!--
 **TrainedTrex/TrainedTrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
