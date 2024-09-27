@@ -1,7 +1,9 @@
 ### 🔭 Some projects that interest me
 #### Working at [Cesium](https://cesium.com/)
 
-currently working on a project named data-doodler. Will eventually be availible at datadoodler.com
+#### Current WIPs
+- data-doodler. 
+    - Will eventually be availible at datadoodler.com
 <!--
 **TrainedTrex/TrainedTrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
