@@ -1,12 +1,13 @@
 [![moon](https://github.com/TrainedTrex/TrainedTrex/blob/main/moon-banner.png)](https://cesium.com/)
-
-### Aerospace Engineer working on geospatial visualization
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+## Aerospace Engineer working on geospatial visualization
 
 ### 🔭 Some projects that interest me
 
 #### Current WIPs
 data-doodler
 - Will eventually be availible at datadoodler.com
+
 <!--
 **TrainedTrex/TrainedTrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
