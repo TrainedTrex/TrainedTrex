@@ -1,6 +1,6 @@
 [![moon](https://github.com/TrainedTrex/TrainedTrex/blob/main/moon-banner.png)](https://cesium.com/)
 
-### Aerospace Engineer working at Cesium
+### Aerospace Engineer working on geospatial visualization
 
 ### 🔭 Some projects that interest me
 
