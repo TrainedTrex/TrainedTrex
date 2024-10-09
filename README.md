@@ -1,4 +1,4 @@
-### Working at [Cesium](https://cesium.com/)
+### Aerospace Engineer working at [Cesium](https://cesium.com/)
 
 ### 🔭 Some projects that interest me
 
