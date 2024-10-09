@@ -1,5 +1,6 @@
+### Working at [Cesium](https://cesium.com/)
+
 ### 🔭 Some projects that interest me
-#### Working at [Cesium](https://cesium.com/)
 
 #### Current WIPs
 data-doodler
