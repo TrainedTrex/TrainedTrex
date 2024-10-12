@@ -7,7 +7,7 @@ Previously was a vehicle flight dynamics specialist
 #### Current WIPs
 data-doodler
 - Will eventually be availible at datadoodler.com
-
+- API will have docs for the endpoints
 <!--
 **TrainedTrex/TrainedTrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
