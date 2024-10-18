@@ -6,7 +6,7 @@ Previously was a vehicle flight dynamics specialist
 
 #### Current WIPs
 data-doodler
-- Availible at datadoodler.com/v1/api
+- Availible at datadoodler.com/v1/api/
 - API will have docs for the endpoints
 - Docs coming soon
 <!--
