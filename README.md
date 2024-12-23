@@ -6,7 +6,7 @@ Experience as a vehicle flight dynamics specialist
 
 #### Current WIPs
 data-doodler
-- Availible at [api.datadoodler.com](api.datadoodler.com)
+- Availible at [api.datadoodler.com](https://api.datadoodler.com)
 - Docs are still WIP but are available at [datadoodler.com](https://datadoodler.com)
 <!--
 **TrainedTrex/TrainedTrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
