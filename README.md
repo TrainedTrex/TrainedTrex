@@ -8,6 +8,9 @@ Experience as a vehicle flight dynamics specialist
 data-doodler
 - Availible at [api.datadoodler.com](https://api.datadoodler.com)
 - Docs are still WIP but are available at [datadoodler.com](https://datadoodler.com)
+
+Goku
+- Set of utils in Golang using generics that I've needed.
 <!--
 **TrainedTrex/TrainedTrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
