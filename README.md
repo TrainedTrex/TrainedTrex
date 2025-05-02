@@ -14,7 +14,7 @@ data-doodler
 - Docs are still WIP but are available at [datadoodler.com](https://datadoodler.com)
 
 Goku
-- Set of utils in Golang using generics that I've needed and pulled together.
+- Set of utils in Golang using generics that I've needed and pulled together into one spot.
 - Availible [on github](https://github.com/TrainedTrex/goku) or [go package](https://pkg.go.dev/github.com/TrainedTrex/goku)
 <!--
 **TrainedTrex/TrainedTrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
