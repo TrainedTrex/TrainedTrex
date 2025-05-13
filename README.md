@@ -6,7 +6,7 @@ Experience as a flight dynamics specialist and geospatial visualization
 
 #### [CesiumJS w/ Svelte](https://github.com/TrainedTrex/cesium-svelte-example)
 
-- This example is pretty close to the basic CesiumJS Vite example but with Svelte components built in.
+- This example is pretty close to the basic CesiumJS Vite example but with Svelte components built into it.
 
 #### Current WIPs
 data-doodler
