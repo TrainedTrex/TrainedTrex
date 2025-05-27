@@ -9,6 +9,10 @@ Experience as a flight dynamics specialist and geospatial visualization
 - This example is pretty close to the basic CesiumJS Vite example but with Svelte components.
 
 #### Current WIPs
+
+Untitled Cesium Project 
+- Currently working on extensions to CeisumJS that provide more space specific features
+
 data-doodler
 - Availible at [api.datadoodler.com](https://api.datadoodler.com)
 - Docs are still WIP but are available at [datadoodler.com](https://datadoodler.com)
