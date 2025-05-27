@@ -10,7 +10,7 @@ Experience as a flight dynamics specialist and geospatial visualization
 
 #### Current WIPs
 
-Untitled Cesium Project 
+Untitled Cesium Project
 - Currently working on extensions to CeisumJS that provide more space specific features
 
 data-doodler
