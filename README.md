@@ -4,7 +4,7 @@
 Experience as a flight dynamics specialist and geospatial visualization
 ### 🔭 Some projects that I've worked on
 
-### [Go SGP$ Port](https://pkg.go.dev/github.com/TrainedTrex/sgp4go@v0.1.2)
+#### [Go SGP4 Port](https://pkg.go.dev/github.com/TrainedTrex/sgp4go@v0.1.2)
 
 - Full port of the SGP4 propagator into GoLang. Also made some quality of life changes.
 
