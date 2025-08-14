@@ -4,13 +4,19 @@
 Experience as a flight dynamics specialist and geospatial visualization
 ### 🔭 Some projects that I've worked on
 
-#### [Go SGP4 Port](https://pkg.go.dev/github.com/TrainedTrex/sgp4go@v0.1.2)
+#### [Go SGP4 Port](https://pkg.go.dev/github.com/TrainedTrex/sgp4go)
 
 - Full port of the SGP4 propagator into GoLang. Also made some quality of life changes.
+- Availible [on github](https://github.com/TrainedTrex/sgp4go) or [go package](https://pkg.go.dev/github.com/TrainedTrex/sgp4go)
 
 #### [CesiumJS w/ Svelte](https://github.com/TrainedTrex/cesium-svelte-example)
 
 - This example is pretty close to the basic CesiumJS Vite example but with Svelte components.
+
+#### [Goku Go Utils](https://pkg.go.dev/github.com/TrainedTrex/goku)
+
+- Set of utils in Golang using generics that I've needed and pulled together into one spot.
+- Availible [on github](https://github.com/TrainedTrex/goku) or [go package](https://pkg.go.dev/github.com/TrainedTrex/goku)
 
 #### Current WIPs
 
@@ -21,9 +27,6 @@ data-doodler
 - Availible at [api.datadoodler.com](https://api.datadoodler.com)
 - Docs are still WIP but are available at [datadoodler.com](https://datadoodler.com)
 
-Goku
-- Set of utils in Golang using generics that I've needed and pulled together into one spot.
-- Availible [on github](https://github.com/TrainedTrex/goku) or [go package](https://pkg.go.dev/github.com/TrainedTrex/goku)
 <!--
 **TrainedTrex/TrainedTrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
