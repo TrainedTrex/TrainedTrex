@@ -20,12 +20,12 @@ Experience as a flight dynamics specialist and geospatial visualization
 
 #### Current WIPs
 
-Untitled Cesium Project
-- Currently working on extensions to CeisumJS that provide more space specific features
-
 data-doodler
 - Availible at [api.datadoodler.com](https://api.datadoodler.com)
 - Docs are still WIP but are available at [datadoodler.com](https://datadoodler.com)
+
+Untitled Cesium Project
+- Currently working on extensions to CeisumJS that provide more space specific features
 
 <!--
 **TrainedTrex/TrainedTrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
