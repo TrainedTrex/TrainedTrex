@@ -21,8 +21,7 @@ Experience as a flight dynamics specialist and geospatial visualization
 #### Current WIPs
 
 data-doodler
-- Availible at [api.datadoodler.com](https://api.datadoodler.com)
-- Docs are still WIP but are available at [datadoodler.com](https://datadoodler.com)
+- Availible at [datadoodler.com](https://datadoodler.com)
 
 Untitled Cesium Project
 - Currently working on extensions to CeisumJS that provide more space specific features
