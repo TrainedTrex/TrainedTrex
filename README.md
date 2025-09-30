@@ -2,12 +2,19 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ## Aerospace Engineer building aerospace analtyical tools
 Experience as a flight dynamics specialist and geospatial visualization
-### 🔭 Some projects that I've worked on
+### 🔭 Some projects that I've been working on
 
 #### [Go SGP4 Port](https://pkg.go.dev/github.com/TrainedTrex/sgp4go)
 
 - Full port of the SGP4 propagator into GoLang. Also made some quality of life changes.
 - Availible [on github](https://github.com/TrainedTrex/sgp4go) or [go package](https://pkg.go.dev/github.com/TrainedTrex/sgp4go)
+
+#### [NASA Spice API](https://dandelionsky.dev/)
+
+- NASA SPICE toolkit functionality built into a number of API endpoints.
+- Planetary positions as well as some moons are available.
+  - Going to be adding more kernels and functionality
+- API docs are [here](https://dandelionsky.dev/docs/)
 
 #### [CesiumJS w/ Svelte](https://github.com/TrainedTrex/cesium-svelte-example)
 
@@ -19,6 +26,10 @@ Experience as a flight dynamics specialist and geospatial visualization
 - Availible [on github](https://github.com/TrainedTrex/goku) or [go package](https://pkg.go.dev/github.com/TrainedTrex/goku)
 
 #### Current WIPs
+
+Stellar Sphere
+- (Prototype) Portable stellar positioning and navigation
+- Docs/images comming soon
 
 data-doodler
 - Availible at [datadoodler.com](https://datadoodler.com)
