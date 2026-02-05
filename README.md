@@ -28,15 +28,15 @@ Currently building aerospace analytical and visualization tools.
 
 #### Current WIPs
 
+Untitled Visualization Project
+- Currently working on a vizualization toolkit with specific space features
+
 Stellar Sphere
 - (Prototype) Portable stellar positioning and navigation
 - Docs/images comming soon
 
 data-doodler
 - Availible at [datadoodler.com](https://datadoodler.com)
-
-Untitled Cesium Project
-- Currently working on extensions to CeisumJS that provide more space specific features
 
 <!--
 **TrainedTrex/TrainedTrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
