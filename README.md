@@ -7,7 +7,8 @@ Currently building aerospace analytical and visualization tools.
 
 #### [Go SGP4 Port](https://pkg.go.dev/github.com/TrainedTrex/sgp4go)
 
-- Full port of the SGP4 propagator into GoLang. Also made some quality of life changes.
+- Full port of the SGP4 propagator into GoLang.
+- Also made some small quality of life changes.
 - Availible [on github](https://github.com/TrainedTrex/sgp4go) or [go package](https://pkg.go.dev/github.com/TrainedTrex/sgp4go)
 
 #### [NASA Spice API](https://dandelionsky.dev/)
