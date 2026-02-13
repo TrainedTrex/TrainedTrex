@@ -16,6 +16,7 @@ Currently building aerospace analytical and visualization tools.
 - NASA SPICE toolkit functionality built into a number of API endpoints.
 - Planetary positions as well as some moons are available.
   - Going to be adding more kernels and functionality
+  - Along with kernel switching depending on what is requested
 - API docs are [here](https://dandelionsky.dev/docs/)
 
 #### [CesiumJS w/ Svelte](https://github.com/TrainedTrex/cesium-svelte-example)
@@ -31,6 +32,7 @@ Currently building aerospace analytical and visualization tools.
 
 Untitled Visualization Project
 - Currently working on a vizualization toolkit with specific space features
+- using open source tools and data
 
 Stellar Sphere
 - (Prototype) Portable stellar positioning and navigation
