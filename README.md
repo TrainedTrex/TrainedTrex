@@ -1,6 +1,6 @@
 [![moon](https://github.com/TrainedTrex/TrainedTrex/blob/main/assets/moon-banner.png)](https://cesium.com/)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/HTML-5+-E34F26?logo=html5&style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-## Aerospace Engineer building aerospace analtyical tools
+## Aerospace Engineer building stuff that interests me
 Experience as a flight dynamics specialist and in geospatial visualization.
 Currently building aerospace analytical and visualization tools.
 ### 🔭 Some projects that I've been working on
