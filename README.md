@@ -13,7 +13,7 @@ Currently building aerospace analytical and visualization tools.
 
 #### [NASA Spice API](https://dandelionsky.dev/)
 
-- NASA SPICE toolkit functionality built into some API endpoints.
+- NASA SPICE toolkit functionality built into some python API endpoints.
 - Planetary positions as well as some moons are available.
   - Going to be adding more kernels and functionality
   - Along with kernel switching depending on what is requested
