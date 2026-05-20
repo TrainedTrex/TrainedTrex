@@ -3,7 +3,7 @@
 ## Aerospace Engineer building stuff that interests me
 Experience as a flight dynamics specialist and in geospatial visualization.
 Currently building aerospace analytical and visualization tools.
-### 🔭 Some projects that I've been working on
+### 🔭 Some projects that I have been working on
 
 #### [Go SGP4 Port](https://pkg.go.dev/github.com/TrainedTrex/sgp4go)
 
@@ -35,8 +35,8 @@ Untitled Visualization Project
 - using open source tools and data
 
 Stellar Sphere
-- (Prototype) Portable stellar positioning and navigation
-- Docs/images comming soon
+- (Prototype) Portable stellar positioning/navigation
+- Docs/images comming evenutally
 
 data-doodler
 - Availible at [datadoodler.com](https://datadoodler.com)
