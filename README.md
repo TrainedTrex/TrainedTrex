@@ -31,12 +31,13 @@ Currently building aerospace analytical and visualization tools.
 #### Current WIPs
 
 Untitled Visualization Project
-- Currently working on a vizualization toolkit with specific space features
+- Currently working on a vizualization toolkit with space features
 - using open source tools and data
+- Backend ephemeris querying 
 
 Stellar Sphere
 - (Prototype) Portable stellar positioning/navigation
-- Docs/images comming evenutally
+- Docs/images comming evenutally...
 
 data-doodler
 - Availible at [datadoodler.com](https://datadoodler.com)
