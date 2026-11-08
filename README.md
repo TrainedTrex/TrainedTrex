@@ -1,13 +1,23 @@
-[![moon](https://github.com/TrainedTrex/TrainedTrex/blob/main/assets/moon-banner.png)](https://cesium.com/)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/HTML-5+-E34F26?logo=html5&style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+[![WA logo](https://github.com/TrainedTrex/TrainedTrex/blob/main/assets/Wandering-Astronaut-Secondary-Logo-8-True-White-RGB.svg)](https://wanderingastronaut.com/)
+
 ## Aerospace Engineer building stuff that interests me
 Experience as a flight dynamics engineer and in geospatial visualization.
 Currently building aerospace analytical and visualization tools.
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/HTML-5+-E34F26?logo=html5&style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+
 ### 🔭 Some projects that I have been working on
+
+#### Solar System Visualization Project
+- currently working on a visualization toolkit with aerospace features/focus
+- using open source tools and data
+- backend ephemeris querying API
+- seamless transitions between earth orbit and deep space
 
 #### [Go SGP4 Port](https://pkg.go.dev/github.com/TrainedTrex/sgp4go)
 
 - Full port of the SGP4 propagator into GoLang.
+- Fully patched for the Alpha-5 alphanumeric numbering schema 
 - Also made some small quality of life changes.
 - Availible [on github](https://github.com/TrainedTrex/sgp4go) or [go package](https://pkg.go.dev/github.com/TrainedTrex/sgp4go)
 
@@ -29,11 +39,6 @@ Currently building aerospace analytical and visualization tools.
 - Availible [on github](https://github.com/TrainedTrex/goku) or [go package](https://pkg.go.dev/github.com/TrainedTrex/goku)
 
 #### Current WIPs
-
-Untitled Visualization Project
-- Currently working on a vizualization toolkit with space features
-- using open source tools and data
-- Backend ephemeris querying 
 
 Stellar Sphere
 - (Prototype) Portable stellar positioning/navigation
