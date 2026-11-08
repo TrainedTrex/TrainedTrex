@@ -1,4 +1,4 @@
-[![WA logo](https://github.com/TrainedTrex/TrainedTrex/blob/main/assets/Wandering-Astronaut-Secondary-Logo-8-True-White-RGB.svg)](https://wanderingastronaut.com/)
+[![WA logo](https://github.com/TrainedTrex/TrainedTrex/blob/main/assets/eclipse-hero-1.png)](https://wanderingastronaut.com/)
 
 ## Aerospace Engineer building stuff that interests me
 Experience as a flight dynamics engineer and in geospatial visualization.
